@@ -1,4 +1,7 @@
-# tap-deck
+# Chapter Leader Intro Slideshow
+
+This particular version of the tap-deck is to give Operation Code Chapter Leaders
+an Introduction Slide Show for their first Meetups.
 
 Controls:
 - Left and right arrows navigate through Slides
